@@ -1,0 +1,22 @@
+# Domain GFW
+
+DOMAIN-SUFFIX,nonebot.dev
+DOMAIN-SUFFIX,tailscale.com
+DOMAIN-SUFFIX,webmin.com
+DOMAIN-SUFFIX,caddyserver.com
+DOMAIN-SUFFIX,caddyserver.com
+DOMAIN-SUFFIX,raw.githubusercontent.com
+DOMAIN-SUFFIX,objects.githubusercontent.com
+DOMAIN-SUFFIX,wasmtime.dev
+DOMAIN-SUFFIX,registry.k8s.io
+DOMAIN-SUFFIX,pkg.dev
+DOMAIN-SUFFIX,helm.sh
+DOMAIN-SUFFIX,trakt.tv
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,codeium.com
+DOMAIN-SUFFIX,singlelogin.me
+DOMAIN-SUFFIX,singlelogin.site
+DOMAIN-SUFFIX,nodeseek.com
+DOMAIN-SUFFIX,captcha.go-cqhttp.org
+DOMAIN-SUFFIX,120.gay
+DOMAIN-SUFFIX,pub-api-1.bianyuan.xyz

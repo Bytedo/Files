@@ -1,0 +1,7 @@
+# 直连不代理的ip
+# 中国
+IP-CIDR,211.152.128.0/23,no-resolve
+IP-CIDR,211.152.132.0/23,no-resolve
+IP-CIDR,211.152.148.0/23,no-resolve
+
+# 海外
