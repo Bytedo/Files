@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,auth0.openai.com
 DOMAIN-SUFFIX,platform.openai.com
 DOMAIN-SUFFIX,ios.chat.openai.com
+DOMAIN-SUFFIX,cdn.oaistatic.com
 # Add ai.com
 DOMAIN-SUFFIX,ai.com
 # Add stripe.com
