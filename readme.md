@@ -23,6 +23,12 @@
 | [李跳跳 2.2 正式版.apk](https://github.com/Aulaydev/Files/raw/main/Litiaotiao/%E6%9D%8E%E8%B7%B3%E8%B7%B32.2%E6%AD%A3%E5%BC%8F%E7%89%88.apk) |  2023-05-17  |
 | [李跳跳真实好友.apk](https://github.com/Aulaydev/Files/raw/main/Litiaotiao/%E6%9D%8E%E8%B7%B3%E8%B7%B3_%E7%9C%9F%E5%AE%9E%E5%A5%BD%E5%8F%8B4.0.apk) |  2023-04-09  |
 
+## IPTV
+
+https://raw.githubusercontent.com/Aulaydev/Files/main/IPTV/home.m3u8  
+
+https://raw.githubusercontent.com/Aulaydev/Files/main/IPTV/iptv.m3u8
+
 ## MobaXterm
 
 自己制作的 MobaXterm 的汉化版。
