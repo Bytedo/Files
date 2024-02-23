@@ -4,13 +4,12 @@
 
 使用方法
 
-在[subconverter](https://github.com/tindy2013/subconverter)工具（比如bianyuan.xyz）里使用远程配置文件 [https://raw.githubusercontent.com/Aulaydev/Files/main/Rules/Clash/rules.ini](https://raw.githubusercontent.com/Aulaydev/Files/main/Rules/Clash/rules.ini)
+在[subconverter](https://github.com/tindy2013/subconverter)工具（比如 bianyuan.xyz ）里配置远程配置文件 [https://raw.githubusercontent.com/Aulaydev/Files/main/Rules/Clash/rules.ini](https://raw.githubusercontent.com/Aulaydev/Files/main/Rules/Clash/rules.ini) 
+![img](https://raw.githubusercontent.com/Aulaydev/Files/main/images/example.png)
 
 
 
 ## 李跳跳 安卓跳广告软件
-
-
 
 #### 2023.08.24 作者宣布无限期停止更新
 
