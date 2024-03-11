@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,auth0.openai.com
 DOMAIN-SUFFIX,platform.openai.com
 DOMAIN-SUFFIX,ios.chat.openai.com
 DOMAIN-SUFFIX,cdn.oaistatic.com
+DOMAIN-SUFFIX,chatgpt.com
 # Add ai.com
 DOMAIN-SUFFIX,ai.com
 # Add stripe.com
@@ -18,7 +19,7 @@ DOMAIN-SUFFIX,stripe.com
 #add poe.com
 DOMAIN-SUFFIX,poe.com
 #add bard.google.com
-DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,bard.google.com	## 已跳转 gemini.google.com
 DOMAIN-SUFFIX,gemini.google.com
 #add claude
 DOMAIN-SUFFIX,claude.ai
