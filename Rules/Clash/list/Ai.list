@@ -19,7 +19,6 @@ DOMAIN-SUFFIX,stripe.com
 #add poe.com
 DOMAIN-SUFFIX,poe.com
 #add bard.google.com
-DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,gemini.google.com
 #add claude
 DOMAIN-SUFFIX,claude.ai
