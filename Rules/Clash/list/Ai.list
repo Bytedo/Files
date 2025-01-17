@@ -21,9 +21,11 @@ DOMAIN-SUFFIX,ai.com
 # Add stripe.com
 DOMAIN-SUFFIX,invoice.stripe.com
 DOMAIN-SUFFIX,stripe.com
-#add poe.com
+# add poe.com
 DOMAIN-SUFFIX,poe.com
-#add bard.google.com
+# add bard.google.com
 DOMAIN-SUFFIX,gemini.google.com
-#add claude
+# add claude
 DOMAIN-SUFFIX,claude.ai
+# perplexity.ai
+DOMAIN-SUFFIX,perplexity.ai
