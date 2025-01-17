@@ -14,15 +14,15 @@ DOMAIN-SUFFIX,helm.sh
 DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,codeium.com
-DOMAIN-SUFFIX,singlelogin.me
-DOMAIN-SUFFIX,singlelogin.site
-DOMAIN-SUFFIX,nodeseek.com
-DOMAIN-SUFFIX,captcha.go-cqhttp.org
-DOMAIN-SUFFIX,120.gay
-DOMAIN-SUFFIX,pub-api-1.bianyuan.xyz
-DOMAIN-SUFFIX,jike.info
 DOMAIN-SUFFIX,annas-archive.org
+
+# 社区论坛
 DOMAIN-SUFFIX,gitlab.com
+DOMAIN-SUFFIX,nodeseek.com
+DOMAIN-SUFFIX,jike.info
+DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,hostloc.com
+
 # bitcoin
 DOMAIN-SUFFIX,bitget.com
 DOMAIN-SUFFIX,htx.com
